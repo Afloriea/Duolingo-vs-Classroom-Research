@@ -1,0 +1,5 @@
+# Notebooks are the original exploratory work and carry ~2.5 MB of embedded chart
+# images, which would make GitHub label the repo "Jupyter Notebook". Count them as
+# documentation so the language bar reflects the Python analysis in src/.
+*.ipynb linguist-documentation
+docs/** linguist-documentation

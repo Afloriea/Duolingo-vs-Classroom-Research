@@ -1,0 +1,58 @@
+respondent_id,age,education,education_other,native_language,foreign_language,proficiency,learning_method,learning_method_other,most_effective,most_effective_other,time_allocated,budget,f_cost,f_time,f_prestige,f_entertainment,f_convenience,f_flexibility,taking_class
+1,,Bachelors,,English,"Mandarin,Cantonese",Professional Working Proficiency,"Designated Course,Study Abroad,Tutor",,Study Abroad,,12.0,400.0,1,2,4,6,3,5,True
+2,43.0,Masters,,English,Spanish,Limited Working Proficiency,Tutor,,"Study Abroad,Other:",,5.0,200.0,3,5,6,4,1,2,False
+3,44.0,Masters,,English,"Spanish,Japanese",Professional Working Proficiency,"Designated Course,Tutor",,"Designated Course,Study Abroad,Other:",Comprehensible Input,8.0,5000.0,4,1,6,3,2,5,True
+4,24.0,Bachelors,,English,"Cantonese,Japanese",Elementary Proficiency,"Designated Course,Tutor",,"Designated Course,Other:",Tutor,5.0,100.0,1,2,6,5,4,3,True
+5,,Masters,,French,"Chinese,Spanish,Korean",Limited Working Proficiency,Tutor,,Other:,Tutor,3.0,0.0,4,2,5,1,6,3,False
+6,,High School,,Russian,French,Limited Working Proficiency,Tutor,,Other:,Comprehensible Input,80.0,50.0,3,2,1,6,4,5,False
+7,43.0,Masters,,English,Portuguese,Elementary Proficiency,"Duolingo,Designated Course,Study Abroad",,Study Abroad,,2.0,0.0,1,5,4,6,2,3,False
+8,33.0,Other,Finishing dissertation,"English,Spanish","French,German",Full Professional Working Proficiency,Self-Study,,"Designated Course,Other:",Comprehensible Input,15.0,60.0,1,3,6,5,4,2,True
+9,,High School,,Arabic,English,Professional Working Proficiency,"Tutor,Self-Study",,Other:,Tutor,21.0,200.0,5,1,6,4,3,2,False
+10,29.0,Doctor's,,English,Danish,Elementary Proficiency,"Duolingo,Self-Study",,Duolingo,,3.0,10.0,2,1,4,6,5,3,False
+11,,Masters,,English,Portuguese,Elementary Proficiency,Self-Study,,"Designated Course,Other:",Self-Study,15.0,35.0,3,4,5,6,2,1,True
+12,35.0,Other,JD,English,"German,Spanish",Limited Working Proficiency,"Duolingo,Self-Study",,"Designated Course,Study Abroad",,2.0,50.0,4,3,2,5,1,6,False
+13,24.0,Bachelors,,English,Japanese,Elementary Proficiency,"Rosetta Stone,Self-Study,Other:",Quizlet,Other:,Self-Study,5.0,100.0,3,5,1,4,6,2,False
+14,19.0,High School,,English,Japanese,Elementary Proficiency,"Designated Course,Tutor,Self-Study,Other:",Anki/Wanikani,Designated Course,,8.0,,1,3,2,6,5,4,True
+15,26.0,Masters,,English,Italian,Limited Working Proficiency,"Duolingo,Self-Study",,"Duolingo,Other:","Self-Study, Conversation",5.0,0.0,1,2,6,4,5,3,False
+16,35.0,Masters,,English,Spanish,Limited Working Proficiency,"Tutor,Self-Study,Other:","Comprensible Input, Flashcards",Other:,Self-Study,7.0,100.0,3,5,1,4,2,6,False
+17,36.0,Bachelors,,English,Mandarin,Elementary Proficiency,"Self-Study,Other:","Textbook, Audios",Other:,"Listening, Reading",14.0,0.0,5,4,6,3,2,1,False
+18,29.0,Other,Professional Degree (JD),English,"German,Russian,Finnish",Limited Working Proficiency,"Duolingo,Designated Course,Study Abroad,Self-Study",,Designated Course,,8.0,175.0,3,2,6,5,4,1,True
+19,,Bachelors,,English,Italian,Limited Working Proficiency,"Duolingo,Self-Study,Other:",Film class in Italian,Other:,Conversation,3.0,60.0,2,5,6,3,4,1,True
+20,54.0,Masters,,"English,Chinese",Spanish,Elementary Proficiency,Duolingo,,Study Abroad,,15.0,300.0,3,2,6,4,5,1,True
+21,28.0,Bachelors,,English,Ukrainian,Elementary Proficiency,"Duolingo,Self-Study",,"Duolingo,Other:",Watching,6.0,35.0,5,4,1,2,3,6,False
+22,41.0,Associate's,,English,"Korean, Japanese",Limited Working Proficiency,"Duolingo,Tutor,Self-Study",,Other:,Tutor,4.0,500.0,3,4,2,5,6,1,True
+23,20.0,Other,Defense Language Institute,English,Spanish,Full Professional Working Proficiency,"Study Abroad,Other:","Speaking with natives, Listening to music","Study Abroad,Other:",Conversation,20.0,0.0,4,5,6,2,1,3,False
+24,18.0,Bachelors,,English,German,Elementary Proficiency,"Duolingo,Designated Course",,Designated Course,,7.0,1300.0,4,1,2,6,5,3,True
+25,30.0,Bachelors,,Spanish,"English,German",Limited Working Proficiency,Self-Study,,Other:,Comprehensible Input,14.0,0.0,1,3,4,5,6,2,False
+26,16.0,High School,,"English,Cantonese","Spanish,Russian",Elementary Proficiency,"Designated Course,Self-Study",,Designated Course,,6.0,150.0,3,2,1,5,4,6,True
+27,49.0,Bachelors,,English,Italian,Elementary Proficiency,"Self-Study,Other:","Babbel Live classes, Audios",Other:,"Tutor, Listening",10.0,40.0,4,2,3,6,5,1,True
+28,29.0,Masters,,English,Italian,Limited Working Proficiency,"Tutor,Self-Study",,Other:,Self-Study,4.0,100.0,2,3,4,1,5,6,True
+29,35.0,Masters,,Polish,"Chinese,Spanish",Professional Working Proficiency,"Duolingo,Self-Study",,"Duolingo,Other:",Vocabulary Drill,10.0,20.0,5,4,6,3,2,1,False
+30,19.0,Bachelors,,English,"Japanese,Indonesian",Limited Working Proficiency,"Duolingo,Designated Course,Self-Study",,Designated Course,,15.0,500.0,2,3,4,6,5,1,True
+31,32.0,Bachelors,,Hungarian,German,Limited Working Proficiency,Self-Study,,"Designated Course,Study Abroad",,15.0,0.0,2,4,1,6,5,3,False
+32,41.0,Bachelors,,German,Spanish,Elementary Proficiency,Self-Study,,Other:,"Tutor, Comprehensible Input",7.0,200.0,6,2,3,5,4,1,False
+33,30.0,Masters,,English,German,Full Professional Working Proficiency,"Duolingo,Designated Course,Study Abroad,Self-Study",,"Designated Course,Study Abroad",,10.0,50.0,2,3,1,6,4,5,True
+34,37.0,Associate's,,English,"Swedish,Korean",Limited Working Proficiency,"Duolingo,Designated Course,Self-Study,Other:",Memrise,Designated Course,,20.0,0.0,3,4,1,2,6,5,True
+35,28.0,Masters,,Greek,Russian,Elementary Proficiency,"Duolingo,Babbel,Designated Course",,Designated Course,,5.0,120.0,2,3,1,4,6,5,True
+36,27.0,Masters,,English,Vietnamese,Elementary Proficiency,"Designated Course,Other:",,Designated Course,,10.0,30.0,3,1,6,2,5,4,True
+37,40.0,Associate's,,English,Thai,Elementary Proficiency,"Self-Study,Other:","Anki, YouTube, Conversation",Other:,"Self-Study, Conversation",15.0,0.0,2,3,4,6,5,1,False
+38,42.0,Bachelors,,English,German,Elementary Proficiency,Self-Study,,Other:,Self-Study,14.0,1200.0,5,2,6,1,4,3,False
+39,,High School,,"Dutch,German","Italian,Greek,Japanese",Limited Working Proficiency,Self-Study,,Other:,Self-Study,7.0,0.0,1,3,5,6,4,2,False
+40,19.0,High School,,English,Japanese,Elementary Proficiency,"Duolingo,Self-Study",,Other:,Self-Study,10.0,20.0,2,3,1,6,5,4,False
+41,26.0,Bachelors,,Spanish,Japanese,Elementary Proficiency,"Tutor,Self-Study",,Other:,Tutor,2.0,50.0,2,5,3,4,6,1,True
+42,,Masters,,Russian,Japanese,Limited Working Proficiency,Self-Study,,,,15.0,200.0,5,4,6,1,3,2,False
+43,25.0,Bachelors,,English,"Japanese,Spanish,Italian,Ainu",Limited Working Proficiency,"Designated Course,Tutor,Self-Study",,Designated Course,,18.0,800.0,2,4,1,3,5,6,True
+44,40.0,High School,,Ukrainian,English,Professional Working Proficiency,Other:,wordlaze.com,Other:,wordlaze.com,10.0,0.0,5,4,1,6,3,2,False
+45,24.0,High School,,English,Japanese,No Proficiency,Other:,"Tofugu, Wanikani",Other:,,15.0,10.0,5,2,3,6,4,1,False
+46,21.0,Bachelors,,"English,Portuguese","Portuguese,Spanish",Native/Bilingual Proficiency,"Study Abroad,Self-Study",,Study Abroad,,,,3,2,6,1,4,5,True
+47,50.0,Masters,,English,Spanish,Elementary Proficiency,"Duolingo,Tutor,Self-Study",,Other:,"Reading, Listening",10.0,50.0,2,3,5,6,4,1,False
+48,20.0,Bachelors,,English,Russian,Limited Working Proficiency,"Designated Course,Study Abroad,Tutor",,Designated Course,,3.0,60.0,4,1,2,6,3,5,True
+49,23.0,Masters,,English,Arabic,Elementary Proficiency,"Duolingo,Designated Course,Study Abroad,Self-Study",iTalki,Designated Course,,3.0,30.0,1,3,2,5,4,6,True
+50,30.0,Masters,,German,Swedish,Professional Working Proficiency,"Designated Course,Self-Study,Other:",Language Exchange,Other:,Self-Study,6.0,10.0,6,4,3,2,5,1,False
+51,,High School,,German,Polish,Limited Working Proficiency,Self-Study,,Other:,"Textbook, Tutor",13.0,,5,4,1,6,3,2,False
+52,23.0,Masters,,English,Amharic,Elementary Proficiency,"Designated Course,Self-Study",,Designated Course,,15.0,0.0,1,2,3,6,5,4,True
+53,,Bachelors,,English,Spanish,Professional Working Proficiency,Self-Study,,Other:,Comprehensible Input,20.0,0.0,2,5,1,6,3,4,False
+54,18.0,High School,,English,Japanese,Limited Working Proficiency,"Designated Course,Self-Study",,Other:,Conversation,7.0,0.0,1,6,5,4,3,2,True
+55,40.0,High School,,Norwegian,"Italian,German",No Proficiency,"Duolingo,Other:",,Designated Course,,3.0,1.0,1,4,6,5,2,3,False
+56,24.0,Bachelors,,Cantonese,Spanish,Native/Bilingual Proficiency,"Duolingo,Self-Study",,Duolingo,,3.0,1000.0,5,3,4,6,1,2,False
+57,29.0,Bachelors,,English,Spanish,Professional Working Proficiency,"Tutor,Other:","Reading books, Watching movies, Conversation",Other:,"Duolingo, Conversation",5.0,100.0,5,2,6,1,4,3,False
